@@ -125,6 +125,17 @@ $ ssh -T git@github.com
 Hi Yaochenger! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
+> ssh -T git@github.com 命令后，收到以下消息：“Hi You’ve successfully authenticated, but GitHub does not provide shell access.” 这条消息表示 SSH 认证成功.
+>
+> 但 GitHub 不提供 shell 访问权限。这是因为 GitHub 是一个代码托管平台，主要用于版本控制和协作开发，而不是提供交互式的 shell 环境。
+>
+> 所以您可以通过 Git 命令、API 调用或使用 GitHub 网页界面与 GitHub 仓库进行交互。
+> ————————————————
+>
+>                             版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
+>
+> 原文链接：https://blog.csdn.net/prinTao/article/details/133019312
+
 至此SSH的配置就完成，可以使用SSH与Github尽情玩耍了。
 
 
