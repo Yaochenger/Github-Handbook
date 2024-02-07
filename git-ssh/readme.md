@@ -138,7 +138,11 @@ Hi Yaochenger! You've successfully authenticated, but GitHub does not provide sh
 
 至此SSH的配置就完成，可以使用SSH与Github尽情玩耍了。
 
+## 5 自动输入密码配置
 
+[TortoiseGit(小乌龟)设置保存账号密码](https://blog.csdn.net/xdblv/article/details/105484739?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-105484739-blog-114017093.235%5Ev43%5Epc_blog_bottom_relevance_base3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-105484739-blog-114017093.235%5Ev43%5Epc_blog_bottom_relevance_base3&utm_relevant_index=2)
+
+如果在配置SSH时没有输入密码，这一步就可以忽略了，如果输入了密码，执行上述操操作就不必每一步都输入密码了。
 
 ## QAQ
 
